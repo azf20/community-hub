@@ -71,6 +71,7 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    'fulltext-search'
+    'fulltext-search',
+    'vuepress-plugin-medium-zoom'
   ]
 }
