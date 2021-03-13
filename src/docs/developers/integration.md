@@ -110,7 +110,7 @@ Then, run the famous `up.sh` script to spin everything up:
 ```
 
 And that's it!
-You now have an L2 chain (sequencer) at `localhost:9545` connected to an L1 chain at `localhost:8545`.
+You now have an L2 chain (sequencer) at `localhost:8545` connected to an L1 chain at `localhost:9545`.
 
 ### Common Gotchas
 ::: tip Need help?
@@ -157,6 +157,7 @@ Here's a current list of our testnet endpoints (will be updated when things chan
 | ----------------------------------- | ---------- | ------------------------------------------------------ | ---------------------------------------------------------------- |
 | [Kovan](https://kovan.etherscan.io) | OE Kovan 1 | [https://kovan.optimism.io](https://kovan.optimism.io) | [https://kovan.optimism.io:8546](https://kovan.optimism.io:8546) |
 
+Deployed contract addresses on different networks can be found in the [regenesis repository](https://github.com/ethereum-optimism/regenesis).
 
 ## Bridging L1 and L2
 ::: tip Work in Progress™
